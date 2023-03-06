@@ -1,6 +1,6 @@
 # Arma-3-Spawn-Random-Enemy
 
-it is used to spawn mechanized units and not randomly on a target
+it is used to spawn mechanized units and not randomly on a target.
 This script was made for single purpose only.
 have fun with friends now finding random units
 
